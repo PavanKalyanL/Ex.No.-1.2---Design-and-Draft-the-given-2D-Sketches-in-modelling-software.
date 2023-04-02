@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
+ ![](Ex_1.2 Drawing v1_pavan.jpg)
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
